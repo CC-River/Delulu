@@ -102,8 +102,3 @@ Delulu/
 
 ---
 
-## 👤 Credits
-
-Built by **CC-River** as part of the **Young Innovators STEM Lab — AR/VR Workshop**
-
-*Sponsored by U.S. Embassy New Delhi · IUSSTF · Steam Varsity*
